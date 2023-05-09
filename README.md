@@ -1,4 +1,4 @@
-**👋 Hi, I'm Óscar.**
+### 👋 Hi, I'm Óscar
 
 - Full Stack Developer at ________.<br>
 - Product Manager at [Artiflora](https://artiflora.mx).<br>
