@@ -1,1 +1,6 @@
-![npx-ocordova](https://user-images.githubusercontent.com/694736/145723933-adbed4bc-cff6-4b26-8c7c-de2c4d8c5d03.png)
+**👋 Hi, I'm Óscar.**
+
+- Full Stack Developer at ________.<br>
+- Product Manager at [Artiflora](https://artiflora.mx).<br>
+
+See more of my work on my [personal site](https://ocordova.me).
