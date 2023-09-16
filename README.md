@@ -1,6 +1,5 @@
-### 👋 Hi, I'm Óscar
+**Hi, I'm Óscar.**
 
-- Full Stack Developer at ________.<br>
-- Product Manager at [Artiflora](https://artiflora.mx).<br>
+I'm a Software Engineer by day and a Product Manager by night.
 
-See more of my work on my [personal site](https://ocordova.me).
+Know more about me on my [personal site](https://ocordova.me).
